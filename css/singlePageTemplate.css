@@ -139,7 +139,7 @@ ul li:hover a {
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 5px;
-	color: #6C2A2B;
+	color: #000000;
 }
 .gallery .thumbnail p {
 	margin-top: 0px;
@@ -150,7 +150,7 @@ ul li:hover a {
 }
 /* Parallax Section */
 .banner {
-	background-color: #2D9AB7;
+	background-color: #ffffff;
 	background-image: url(../images/dfresechair.jpg);
 	height: 400px;
 	background-attachment: fixed;
@@ -161,6 +161,8 @@ ul li:hover a {
 }
 .parallax {
 	color: #000000;
+	text-decoration-color: #ffffff;
+	text-shadow: .5px .5px .5px #ffffff, .5px .5px .5px #ffffff;
 	text-align: center;
 	padding-right: 000px;
 	padding-top: 170px;
@@ -236,7 +238,7 @@ footer .footer_column p {
 	transition: all 0.3s linear;
 }
 .button:hover {
-	background-color: #FEFEFE;
+	background-color: #ffffff;
 	color: #C4C4C4;
 	cursor: pointer;
 }
@@ -335,7 +337,7 @@ nav ul li {
 	text-align: center;
 }
 .banner {
-	background-color: #2D9AB7;
+	background-color: #ffffff;
 	background-image: none;
 }
 .tagline {
@@ -359,7 +361,7 @@ nav ul li {
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
-	color: #043745;
+	color: #ffffff;
 }
 .container header nav {
 	margin-top: 0px;
@@ -370,7 +372,7 @@ nav ul li {
 	float: none;
 	overflow: auto;
 	display: inline-block;
-	background: #6C2A2B;
+	background: #FFFFFF;
 }
 header nav ul {
 	padding: 0px;
