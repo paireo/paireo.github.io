@@ -379,7 +379,7 @@ header nav ul {
 	float: none;
 }
 nav ul li {
-	margin-top: 0px;
+	margin-top: -4px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
