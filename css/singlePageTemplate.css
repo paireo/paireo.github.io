@@ -359,12 +359,12 @@ nav ul li {
 	text-align: center;
 	margin-top: 5px;
 	margin-right: 0px;
-	margin-bottom: 0px;
+	margin-bottom: 5px;
 	margin-left: 0px;
 	color: #ffffff;
 }
 .container header nav {
-	margin-top: -4px;
+	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
