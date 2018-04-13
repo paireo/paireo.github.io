@@ -372,7 +372,7 @@ nav ul li {
 	float: none;
 	overflow: auto;
 	display: inline-block;
-	background: #FFFFFF;
+	background: hsla(0,0%,100%,0.00);
 }
 header nav ul {
 	padding: 0px;
@@ -414,7 +414,7 @@ nav ul li {
 	padding-bottom: 0px;
 	padding-left: 0px;
 	width: 100%;
-	font-size: 18px;
+	font-size: 14px;
 }
 .parallax_description {
 	padding-top: 0px;
