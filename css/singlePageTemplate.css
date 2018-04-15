@@ -161,12 +161,14 @@ ul li:hover a {
 }
 .parallax {
 	color: #000000;
-	text-decoration-color: #ffffff;
-	text-shadow: .5px .5px .5px #ffffff, .5px .5px .5px #ffffff;
-	text-align: center;
-	padding-right: 000px;
-	padding-top: 170px;
-	letter-spacing: 2px;
+	/*text-shadow: .5px .5px .5px #ffffff, .5px .5px .5px #ffffff;*/
+	text-align: left;
+	font-size: 100%;
+	line-height: 0%;
+	padding-right: 0px;
+	padding-left: 6%;
+	padding-top: 5%;
+	letter-spacing: 0px;
 	margin-top: 0px;
 }
 .parallax_description {
@@ -311,17 +313,17 @@ nav ul li {
 	margin-top: 0px;
 }
 .parallax {
-	text-align: center;
+	text-align: left;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
-	padding-top: 40%;
+	padding-top: 5%;
 	padding-right: 0px;
 	padding-bottom: 0px;
-	padding-left: 0px;
+	padding-left: 6%;
 	width: 100%;
-	font-size: 18px;
+	font-size: 12px;
 }
 .parallax_description {
 	padding-top: 0px;
@@ -364,9 +366,9 @@ nav ul li {
 	color: #ffffff;
 }
 .container header nav {
-	margin-top: -10px;
+	margin-top: -20px;
 	margin-right: 0px;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 	margin-left: 0px;
 	width: 100%;
 	float: none;
@@ -381,7 +383,7 @@ header nav ul {
 nav ul li {
 	margin-top: 0px;
 	margin-right: 0px;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 	margin-left: 0px;
 	width: 100%;
 	text-align: center;
@@ -404,15 +406,15 @@ nav ul li {
 	margin-top: 0px;
 }
 .parallax {
-	text-align: center;
+	text-align: left;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
-	padding-top: 40%;
+	padding-top: 5%;
 	padding-right: 0px;
 	padding-bottom: 0px;
-	padding-left: 0px;
+	padding-left: 6%;
 	width: 100%;
 	font-size: 12px;
 }
