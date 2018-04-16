@@ -74,9 +74,9 @@ ul li:hover a {
 }
 /* Hero Section */
 .hero {
-	background-image: url(../images/../images/adult-african-analog-watch-935863-2.jpg);
-	background-size: auto;
-	background-position: center;
+	background-image: url(../images/../images/adult-african-analog-watch-935863-3.jpg);
+	background-size: cover;
+	background-position: right;
 	padding-top: 200px;
 	padding-bottom: 200px;
 }
