@@ -74,7 +74,7 @@ ul li:hover a {
 }
 /* Hero Section */
 .hero {
-	background-image: url(../Pics/Desk.jpg);
+	background-image: url(../images/../images/adult-african-analog-watch-935863.jpg);
 	background-size:cover;
 	background-position: center;
 	padding-top: 200px;
@@ -98,9 +98,9 @@ ul li:hover a {
 	text-align: center;
 	font-weight: 200%;
 	line-height: 25px;
-	float: left;
-	padding-left: 20px;
-	padding-right: 20px;
+	float: none;
+	padding-left: 1%;
+	padding-right: 1%;
 	color: #FFFFFF;
 }
 .about {
@@ -163,6 +163,7 @@ ul li:hover a {
 	color: #000000;
 	/*text-shadow: .5px .5px .5px #ffffff, .5px .5px .5px #ffffff;*/
 	text-align: left;
+	font-weight: bold;
 	font-size: 100%;
 	line-height: 0%;
 	padding-right: 0px;
